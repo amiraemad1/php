@@ -1,0 +1,19 @@
+{
+  "name": "countvisit/day3",
+  "description" : "Unique visits counter",
+  "license": "MIT",
+
+  
+
+  "autoload":{
+  
+    "classmap":["Model"],
+     "files": ["config.php"]
+	
+  
+  }
+
+  
+
+
+}
